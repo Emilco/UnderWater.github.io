@@ -1,0 +1,104 @@
+body {
+    background-color: skyblue;
+    height: 100%;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+.button {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background-color: #3AA346;
+  border-radius: 10px;
+  height: 40px;
+  width: 150px;
+
+}
+
+
+.button:hover {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background: url(../img/p.gif);
+  border-radius: 10px;
+  height: 90px;
+  width: 200px;
+
+}
+
+a {
+  position: absolute;
+  left: 19%;
+  top: 0;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+
+}
+
+a:hover {
+  position: absolute;
+  left: 19%;
+  top: 5%;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+.button2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #3AA346;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+
+}
+
+
+.button2:hover {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: url(../img/p.gif);
+    border-radius: 10px;
+    height: 90px;
+    width: 200px;
+
+}
+
+.a2 {
+    position: absolute;
+    left: 19%;
+    top: 0;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.a2:hover {
+    position: absolute;
+    left: 19%;
+    top: 5%;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+}
+.video-container {
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
